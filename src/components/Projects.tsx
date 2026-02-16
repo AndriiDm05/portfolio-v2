@@ -5,7 +5,7 @@ const Projects = () => {
         {
             title: "Modern Portfolio",
             description: "The current site you are viewing. Built with React 19 and Tailwind v4.",
-            image: "/portfolio-v2.png", 
+            image: "./portfolio-v2.png", 
             tags: ["React", "TypeScript", "Tailwind"],
             github: "https://github.com/AndriiDm05/portfolio-v2",
             demo: "https://andriidm05.github.io/portfolio-v2/",
@@ -13,7 +13,7 @@ const Projects = () => {
         {
             title: "Botanic Shop",
             description: "An e-commerce concept for plants featuring a shopping cart and item filtering; a final project for an IBM course on coursera.",
-            image: "/botanic.png",
+            image: "./botanic.png",
             tags: ["React", "JSX", "CSS"],
             github: "https://github.com/AndriiDm05/e-plantShopinng",
             demo: "https://andriidm05.github.io/e-plantShopping/",
@@ -21,7 +21,7 @@ const Projects = () => {
         {
             title: "To-Do List App",
             description: "A simple to-do list application with CRUD functionality and local storage.",
-            image: "/todo.png",
+            image: "./todo.png",
             tags: ["React", "TypeScript", "Tailwind"],
             github: "https://github.com/AndriiDm05/todolist",
             demo: "https://adktodolist.netlify.app/",
@@ -29,14 +29,14 @@ const Projects = () => {
         {
             title: "Paint Program",
             description: "A basic paint application with a canvas and color palette.",
-            image: "/paint.png",
+            image: "./paint.png",
             tags: ["C#", "WinForms"],
             github: "https://github.com/AndriiDm05/myjpaint",
         },
         {
             title: "Portfolio (old version)",
             description: "The previous version of my portfolio, built with HTML, CSS and JS.",
-            image: "/portfolio-v1.png",
+            image: "./portfolio-v1.png",
             tags: ["HTML", "CSS", "JavaScript"],
             github: "https://github.com/AndriiDm05/kilnytskyisportfolio",
             demo: "https://andriidm05.github.io/kilnytskyisportfolio/",

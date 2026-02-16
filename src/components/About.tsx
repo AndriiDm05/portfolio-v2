@@ -15,7 +15,7 @@ const About = () => {
                     <div className="absolute -inset-1 bg-gradient-to-r from-blue-500 to-emerald-500 rounded-2xl blur opacity-25 group-hover:opacity-50 transition duration-1000 group-hover:duration-200"></div>
                     <div className="relative bg-slate-900 rounded-2xl overflow-hidden border border-slate-800">
                         <img 
-                            src="/me.jpg"
+                            src="./me.jpg"
                             alt="Andrii Kilnytskyi"
                             className="w-full h-auto object-cover transition-all duration-500 grayscale-0 lg:grayscale lg:hover:grayscale-0"
                         />
